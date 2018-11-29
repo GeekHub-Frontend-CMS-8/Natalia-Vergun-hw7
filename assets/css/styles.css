@@ -1,0 +1,85 @@
+.hero {
+  background-image: url("../img/bg_img_hero.png");
+  background-color: antiquewhite;
+  min-height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#info_1 p {
+  text-overflow: clip;
+}
+
+#features {
+  background-color: #f4f4f4;
+}
+
+.icon {
+  width: 111px;
+  padding: auto;
+}
+
+#icon {
+  width: 111px;
+  height: 64px;
+}
+
+#icon_1 {
+  width: 90px;
+  height: 80px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+div {
+  color: #8d81ac;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-size: 3.5rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  color: #d4d4d4;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  color: #8d81ac;
+}
+
+a:hover {
+  color: #ddaa;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #323232;
+  font-weight: normal;
+}
+
+.main-color {
+  color: #8d81ac;
+}
+
+.second-color {
+  color: black;
+}
